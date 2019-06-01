@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "description": "Clean the House",
+      "hoursToComplete": "2",
+      "itemsNecessary": "dustpan, broom, mop, clorox wipes",
+      "id": 1
+    }
+  ]
+}
